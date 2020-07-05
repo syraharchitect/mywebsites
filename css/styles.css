@@ -500,7 +500,7 @@ color: #fff;}
   background: #BEBEBE;
 }
 #our-team .team-member .team-img {
-  margin: -15px -15px 0 -15px;
+  padding:4px;
 }
 #our-team .team-member .team-info {
   padding-bottom: 10px; 
