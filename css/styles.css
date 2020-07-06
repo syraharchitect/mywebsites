@@ -962,3 +962,19 @@ padding: 7px 0 0;
 .aboutus img{
   color: #f1df0f;
 }
+form .submit{
+  background-color: #f1df0f;
+  color:#141414;
+  font-weight: bold;
+  font-size: 20px;
+  border:1px solid #141414;
+  margin-top: 10px;
+  height: 50px;
+}
+
+input{
+  margin-top: 10px;
+}
+textarea{
+  margin-top: 10px;
+}
