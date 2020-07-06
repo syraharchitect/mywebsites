@@ -970,6 +970,7 @@ form .submit{
   border:1px solid #141414;
   margin-top: 10px;
   height: 40px;
+  border-radius: 10px 10px 10px 10px;
 }
 form .submit:hover{
   background-color:#df3a01;
