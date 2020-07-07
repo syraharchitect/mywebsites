@@ -962,7 +962,7 @@ padding: 7px 0 0;
 .aboutus img{
   color: #f1df0f;
 }
-form .submit{
+form button{
   background-color: #f1df0f;
   color:#141414;
   font-weight: bold;
